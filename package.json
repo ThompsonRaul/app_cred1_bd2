@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.7",
+    "next": "^13.1.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "cred-2-bd-ii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
