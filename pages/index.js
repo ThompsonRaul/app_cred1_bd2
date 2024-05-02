@@ -35,6 +35,8 @@ function Home() {
         <Link href="/books/delete/deleted_books">Mostrar Livros Deletados</Link>
         <br></br>
         <Link href="/authors/update">Atualizar Autor</Link>
+        <br></br>
+        <Link href="/books/update">Atualizar Livro</Link>
       </div>
     </>
   );
