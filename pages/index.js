@@ -37,6 +37,8 @@ function Home() {
         <Link href="/authors/update">Atualizar Autor</Link>
         <br></br>
         <Link href="/books/update">Atualizar Livro</Link>
+        <br></br>
+        <Link href="/books/count">Contagem de Livros</Link>
       </div>
     </>
   );
